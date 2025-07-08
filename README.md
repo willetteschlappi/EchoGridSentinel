@@ -1,0 +1,13 @@
+
+---
+
+**6. VeilLogInspector**  
+*Log stream inspector with rule-based event tagging.*  
+
+**Файлы:**  
+- `README.md`  
+- `rules/tagging_rules.yaml`  
+- `src/parser.py`  
+- `src/matcher.py`  
+
+README.md:
